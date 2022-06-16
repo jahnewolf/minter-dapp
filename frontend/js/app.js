@@ -1,6 +1,6 @@
 let accounts;
 
-// METAMASK CONNECTION
+// METAMASK CONNECTIONtite
 window.addEventListener("DOMContentLoaded", async () => {
   const welcomeH1 = document.getElementById("welcomeH1");
   const welcomeH2 = document.getElementById("welcomeH2");
